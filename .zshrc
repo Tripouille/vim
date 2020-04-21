@@ -41,7 +41,7 @@ t()
 
 ght()
 {
-	git clone "https://github.com/tripouille/"$1
+	git clone "git@github.com:Tripouille/"$1".git"
 }
 
 ghc()
